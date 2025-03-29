@@ -1,7 +1,7 @@
 {
-  "headline": "Welcome to My Website!",
-  "subheading": "This content is hosted on GitHub.",
-  "message": "You can update this file anytime.",
-  "author": "Your Name",
-  "status": "Live"
+  "field1": "Welcome to My Website!",
+  "field2": "This content is hosted on GitHub.",
+  "field3": "You can update this file anytime.",
+  "field4": "Your Name",
+  "field5": "Live"
 }
